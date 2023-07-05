@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/4w3nEm5.png" alt="">
 
 <h1 align="center">Hi 👋, I'm Leon Arango David</h1>
-<h3 align="center">A passionate frontend developer from Charleston SC</h3>
+<h3 align="center">A passionate senior developer from Charleston SC</h3>
 
 - 🔭 I’m currently working as a Senior React Developer for Moxie
 
